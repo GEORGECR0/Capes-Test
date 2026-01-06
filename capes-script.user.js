@@ -14,7 +14,7 @@
     'use strict';
 
     const capeImages = [
-        'https://i.postimg.cc/L8DgwChB/Vortex-Default-Cape-Red.png',
+        'https://i.postimg.cc/dt4NDP0m/Vortex-Logo4444.jpg',
         'https://i.postimg.cc/pX5VmFyv/Vortex-Logo(2)(2).png',
         'https://i.postimg.cc/PqTdVVyQ/Vortex-Logo(2)(2)(1).png',
         'https://i.postimg.cc/hvznQkD1/Vortex-Logo(2)(2)(2).png'
